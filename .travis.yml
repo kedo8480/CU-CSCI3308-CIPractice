@@ -1,6 +1,0 @@
-language: c
-script: bundle exec thor build
-script:
-  - bundle exec rake build
-  - bundle exec rake builddoc
-
